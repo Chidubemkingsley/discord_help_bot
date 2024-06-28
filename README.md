@@ -31,7 +31,7 @@
 
 ## Demo
 
-![discord-help-bot demo][./discord.png]
+![discord-help-bot demo](./discord.png)
 
 This is what `discord_help_bot` looks like in action.
 
